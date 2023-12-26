@@ -1,9 +1,10 @@
-import Dice from './Dice';
+import Board from "./Board";
 
 function App() {
   return (
     <div>
-      <Dice />
+      <Board name="나" color="blue" />
+      <Board name="상대" color="red" />
     </div>
   );
 }
