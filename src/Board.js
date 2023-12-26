@@ -1,5 +1,4 @@
 import Dice from "./Dice";
-import Button from "./Button";
 
 function Board({ name, color, num, sum, gameHistory }) {
   return (
