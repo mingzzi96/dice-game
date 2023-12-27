@@ -1,0 +1,31 @@
+.App {
+  width: 100%;
+  max-width: 640px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.App .App-logo {
+  height: 65px;
+}
+
+.App .App-title {
+  margin: 40px auto 28px;
+  font-size: 28px;
+}
+
+.App .App-button {
+  margin: 6px;
+}
+
+.App .App-boards {
+  display: flex;
+  margin-top: 40px;
+  gap: 20px;
+}
+
+body {
+  color: #fff;
+  font-family: "NanumSquareRound", sans-serif;
+  background-color: #191f2c;
+}
